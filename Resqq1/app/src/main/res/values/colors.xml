@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="blue">#0000ff</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="lightgrey">#C0C0C0</color>
+    <color name="grey">#808080</color>
+    <color name="darkgrey">#48494B</color>
+    <color name="mediumgrey">#A9A9A9</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="white">#ffffff</color>
+    <color name="profile_default_tint">#808080</color>
+
+    <color name="charcoal">#222021</color>
+    <color name="shadow">#363636</color>
+    <color name="b1">#0000ff</color>
+    <color name="silkblue">#488AC7</color>
+    <color name="black">#000000</color>
+    <color name="green">#32CD32</color>
+
+
+
+    project colors
+    <color name="cyanblue">#4472C4</color>
+    <color name="wildrice">#c55a11</color>
+    <color name="ferngreen">#548236</color>
+    <color name="red">#FF0000</color>
+    <color name="dandelion">#ffd966</color>
+    <color name="froly">#188c89</color>
+    <color name="mandy">#e44466</color>
+    <color name="viking">#4bcfdd</color>
+    <color name="yellowgreen">#b8e385</color>
+    <color name="jellybean">#2c71b1</color>
+    <color name="portica">#f5e767</color>
+    <color name="turqouiseblue">#70ecba</color>
+    <color name="salmon">#fa8978</color>
+    <color name="salomie">#ffdd94</color>
+    <color name="caper">#d0e6a5</color>
+    <color name="silvertree">#6bb2a0</color>
+    <color name="hibiscus1">#c73866</color>
+    <color name="bittersweet">#fe676e</color>
+    <color name="coral">#fd8f52</color>
+    <color name="macroni">#ffbd71</color>
+    <color name="lightwisteria">#ccabd8</color>
+    <color name="kimberly">#8474a1</color>
+    <color name="downy">#6ec6ca</color>
+    <color name="nigeria">#08979d</color>
+    <color name="masala">#514945</color>
+    <color name="tosca">#894242</color>
+    <color name="chestnutrose">#d55c5a</color>
+    <color name="mariner">#33539e</color>
+    <color name="palepink">#e8b7d4</color>
+    <color name="strikemaster">#a56787</color>
+    <color name="cloudy">#a9a5a2</color>
+    <color name="robroy">#dea450</color>
+    <color name="tomthumb">#354c3c</color>
+    <color name="blackcurrant">#42354c</color>
+    <color name="christine">#9b461f</color>
+    <color name="hibiscus">#c73866</color>
+    <color name="auchico">#946060</color>
+    <color name="smaltblue">#517789</color>
+    <color name="highland">#739266</color>
+    <color name="casal">#326569</color>
+    <color name="astral">#308695</color>
+    <color name="apagarus">#6b8e4e</color>
+    <color name="bluelagoon">#058789</color>
+    <color name="orangyroughy">#d54b1a</color>
+    <color name="sidecar">#f6ecc9</color>
+    <color name="envy">#90ac95</color>
+    <color name="antiquebrass">#c3846d</color>
+    <color name="porsche">#e5b163</color>
+    <color name="coppercayon">#8e3712</color>
+    <color name="everglade">#1d4723</color>
+    <color name="amber">#ffc300</color>
+    <color name="outrageousorange">#ff5733</color>
+    <color name="monza">#c70039</color>
+    <color name="flamepea">#de5b3f</color>
+    <color name="persianred">#cf2f2f</color>
+    <color name="hockeypocky">#cf9f2f</color>
+    <color name="lucky">#a89e17</color>
+    <color name="limeade">#649a06</color>
+    <color name="junglegreen">#25b26f</color>
+    <color name="easternblue">#25b1b2</color>
+    <color name="easternblue1">#2084b2</color>
+    <color name="easternblue2">#259eb2</color>
+    <color name="mariner1">#257ab2</color>
+    <color name="contessa">#c5606f</color>
+    <color name="fuzzybrown">#c54c4c</color>
+    <color name="indigo">#6070c5</color>
+    <color name="lavender">#d279dc</color>
+    <color name="pink">#ffc0cb</color>
+    <color name="gold">#F9A602</color>
+    <color name="forgetpssword">#2832C2</color>
+
+
+
+
+
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.resqq1">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS"></uses-permission>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Resqq1">
+
+        <activity android:name=".UserActivity.ChatActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".LegalUserActivity.LegalUserDetailsAcivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".UserActivity.UserDashboardActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".ConfirmPassword"
+            android:screenOrientation="portrait"/>
+
+
+        <activity android:name=".LoginActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".ForgetPassword"
+            android:screenOrientation="portrait"/>
+
+
+        <activity android:name=".LegalUserActivity.Legal_User_Registration"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".LegalUserActivity.LegalUserDashBoardActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".UserActivity.UsersListActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Sign_up_main"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".UserActivity.UserBookingActivity"
+        android:screenOrientation="portrait"/>
+
+
+        <activity android:name=".LegalUserActivity.LegalUserListActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".UserActivity.User_registration"
+            android:screenOrientation="portrait"/>
+
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
